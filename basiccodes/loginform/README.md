@@ -17,4 +17,3 @@ Open the index.html file in your web browser to view the login form.
 
 - HTML
 - CSS
-
